@@ -22,6 +22,7 @@ html {
     line-height: 1.6;
 }
 
+/* BODY */
 body {
     background-color: rgba(250, 250, 250, 255);
 }
@@ -98,6 +99,7 @@ img {
     border-top: var(--primary-blue) solid 4px;
 }
 
+/* FOOTER */
 .attribution {
     font-size: 11px;
     text-align: center;
